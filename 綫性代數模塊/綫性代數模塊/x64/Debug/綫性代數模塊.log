@@ -1,0 +1,5 @@
+﻿cl : 命令列 warning D9025: 覆寫 '/sdl'，以 '/GS-'
+  綫性代數模塊.cpp
+C:\Users\Administrator\source\repos\綫性代數模塊\綫性代數模塊\LinearAlgebra.h(31,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\綫性代數模塊\綫性代數模塊\LinearAlgebra.h(113,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  綫性代數模塊.vcxproj -> C:\Users\Administrator\source\repos\綫性代數模塊\x64\Debug\綫性代數模塊.exe
